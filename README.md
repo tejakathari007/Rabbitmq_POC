@@ -2,7 +2,6 @@ Welcome to the Rabbitmq_POC !
 
           In this I am just sending two queues Bravo and Charlie with a parameter each. Just using a default exchange mechanism. 
 
-
 Pre-Requisites:
 
 1)Download and install Erlang from "https://www.erlang.org/downloads" suited for your OS. 
